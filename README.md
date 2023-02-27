@@ -1,4 +1,4 @@
-# Deploying End to End Website on AWS
+# Deploying a Web Application on AWS
 
 sudo apt-get update
 # For Sql-client
